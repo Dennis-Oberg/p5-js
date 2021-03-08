@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "raytracing/libraries/*.js",
+    "c:\\Users\\46760\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.6\\p5types\\global.d.ts"
+, "libraries/p5.gui.js"  ]
+}
